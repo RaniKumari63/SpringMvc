@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+C:\Users\Neral\eclipse-workspace2\eclipse-workspacespringmvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1556605849.index
+\01_SpringMvcEx\src\main\java
+C:\Users\Neral\eclipse-workspace2\eclipse-workspacespringmvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3036409711.index
+\UserNvc\src\main\resources
+C:\Users\Neral\eclipse-workspace2\eclipse-workspacespringmvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\135443416.index
+\SpringMVC6\src\main\resources
+C:\Users\Neral\eclipse-workspace2\eclipse-workspacespringmvc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3759034547.index
+\SpringMvcEx5\src\main\resources

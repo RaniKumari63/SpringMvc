@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Neral\eclipse-workspace2\eclipse-workspacespringmvc\01_SpringMvcEx\src\main\webapp\WEB-INF\web.xml"/>
+			<item value="C:\Users\Neral\eclipse-workspace2\eclipse-workspacespringmvc\01_SpringMvcEx"/>
+			<item value="C:\Users\Neral\eclipse-workspace2\eclipse-workspacespringmvc\01_SpringMvcEx\src"/>
+			<item value="C:\Users\Neral\eclipse-workspace2\eclipse-workspacespringmvc\Allpractise2"/>
+			<item value="C:\Users\Neral\eclipse-workspace2\eclipse-workspacespringmvc\08_SpringEx\src\main\java\com\suchiit\controller\HelloController.java"/>
+			<item value="C:\Users\neral\eclipse-workspacespringmvc\11_SpringEx"/>
+			<item value="C:\Users\neral\eclipse-workspacespringmvc\04_SpringForm"/>
+			<item value="C:\Users\neral\eclipse-workspacespringmvc\09_SpringEx"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.suchiit.Mvc1"/>
+			<item value="com.suchiit.UserNvc"/>
+			<item value="com.suchiit.UserMvc"/>
+			<item value="com.suchiit.SpringMVC6"/>
+			<item value="com.suchiit.SpringMvcEx5"/>
+			<item value="com.suchiit.AllPractise"/>
+			<item value="com.suchiit.Allpractise2"/>
+			<item value="com.suchiit._SpringMVCC"/>
+			<item value="com.suchiit._SpringEx"/>
+			<item value="com.suchiit._SpringMvc"/>
+		</list>
+		<list key="groupId">
+			<item value="com.suchiit"/>
+		</list>
+		<list key="artifactId">
+			<item value="Mvc1"/>
+			<item value="UserNvc"/>
+			<item value="UserMvc"/>
+			<item value="SpringMVC6"/>
+			<item value="SpringMvcEx5"/>
+			<item value="AllPractise"/>
+			<item value="Allpractise2"/>
+			<item value="12_SpringMVCC"/>
+			<item value="11_SpringEx"/>
+			<item value="10_SpringEx"/>
+			<item value="07_SpringMvc"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
